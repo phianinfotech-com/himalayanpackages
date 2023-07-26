@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;500;600&display=swap');
+
+h1{
+    font-size: 38px;
+    font-family: poppins;
+    font-weight: 600 ;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: poppins;
+    font-weight: 600 ;
+}
+
+H3 {
+    font-size: 22px;
+    font-family: poppins;
+    font-weight: 600 ;
+
+}
+
+H4 {
+    font-size:  18 px 
+}
+
+H5 {
+    font-size: 16 px ;
+}
+
+H6 {
+    font-size:  14 px;
+}
